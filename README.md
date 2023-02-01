@@ -1,5 +1,3 @@
-### Hi there 👋
-
 ### Let me introduce myself
 
 Hi, I am zuikeaidetimo.
