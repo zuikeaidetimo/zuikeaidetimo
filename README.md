@@ -1,8 +1,18 @@
 ### Let me introduce myself
 
 Hi, I am zuikeaidetimo.
+
 I'm studying python.
+
 Bye ~
+
+## I can speak..
+
+- Korean
+- Chinese
+- Python
+- Django
+- SQL
 
 <!--
 **zuikeaidetimo/zuikeaidetimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
