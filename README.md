@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+### Let me introduce myself
+
+Hi, I am zuikeaidetimo.
+I'm studying python.
+Bye ~
+
 <!--
 **zuikeaidetimo/zuikeaidetimo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
